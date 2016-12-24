@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACL,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,IAAI;EAEZ,UAAG;IACF,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,IAAI",
+"sources": ["../scss/component/_figure.scss"],
+"names": [],
+"file": "_figure.css"
+}

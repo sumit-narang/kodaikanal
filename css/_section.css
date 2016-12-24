@@ -1,0 +1,37 @@
+.container {
+  width: 750px;
+  margin: auto; }
+
+section h4 {
+  text-align: center;
+  color: #3e3d3d; }
+section p {
+  color: #4c4b4b;
+  line-height: 1.7; }
+
+.tip {
+  color: #4c4b4b;
+  text-decoration: underline; }
+
+.author {
+  display: flex;
+  align-items: center; }
+  .author div > img {
+    border-radius: 50%; }
+
+.notes {
+  margin-left: 10px; }
+  .notes h4 {
+    text-align: left;
+    margin: 0px auto; }
+  .notes p {
+    margin-top: auto;
+    line-height: 1.5; }
+
+hr {
+  border: 0;
+  border-top: 1px solid #d2cccc;
+  width: 750px;
+  margin: 30px auto; }
+
+/*# sourceMappingURL=_section.css.map */

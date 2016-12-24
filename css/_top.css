@@ -1,0 +1,15 @@
+.top div:first-child {
+  background: url("../image/4high-min.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px; }
+.top div:last-child {
+  position: absolute;
+  width: 100%;
+  top: 150px; }
+  .top div:last-child h1, .top div:last-child h4 {
+    text-align: center;
+    margin: auto; }
+
+/*# sourceMappingURL=_top.css.map */

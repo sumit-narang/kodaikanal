@@ -1,0 +1,46 @@
+.top h1, .top h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 80px; }
+.top h4 {
+  font-size: 30px; }
+
+section h4 {
+  font-family: 'Aref Ruqaa', serif;
+  font-weight: bold;
+  font-size: 25px; }
+section p {
+  font-family: 'Merriweather', serif;
+  font-size: 18px; }
+
+figure {
+  font-family: 'Open Sans', sans-serif; }
+  figure figcaption {
+    font-size: 14px; }
+
+.highlight {
+  font-style: italics;
+  font-weight: bold; }
+
+.tip {
+  font-style: italic;
+  font-size: 20px; }
+
+.notes h4, .notes p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px; }
+.notes p {
+  font-size: 16px; }
+
+@media (max-width: 599px) {
+  .top h1 {
+    font-size: 50px; }
+  .top h4 {
+    font-size: 20px; }
+
+  section p {
+    font-size: 16px; }
+
+  .tip {
+    font-size: 18px; } }
+
+/*# sourceMappingURL=_typography.css.map */
