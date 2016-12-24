@@ -1,0 +1,83 @@
+//top image and heading
+.top{
+	h1,h4{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 80px;
+	}
+	h4{
+		font-size: 30px;
+	}
+}
+
+
+//section for each day
+section{
+	h4{
+		font-family: 'Aref Ruqaa', serif;
+		font-weight: bold;
+		font-size: 25px;
+	}
+
+	p{
+		font-family: 'Merriweather', serif;
+		font-size: 18px;
+	}
+}
+
+
+//each figure in the blog
+figure{
+	font-family: 'Open Sans', sans-serif;
+
+	figcaption{
+		font-size: 14px;
+	}
+}
+
+
+//highlighted text
+.highlight{  
+	font-style: italics;
+	font-weight: bold;
+}
+
+
+//tip for the trip
+.tip{
+	font-style: italic;
+	font-size: 20px;
+}
+
+
+//notes from author
+.notes{
+	h4,p{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 20px;
+	}
+	p{
+		font-size: 16px;
+	}
+}
+
+
+//media type
+@media(max-width: 599px){
+	.top{
+
+		h1{
+			font-size: 50px;
+		}
+		h4{
+			font-size: 20px;
+		}
+	}
+
+	section p{
+		font-size: 16px;
+	}
+
+	.tip{
+		font-size: 18px;
+	}
+}

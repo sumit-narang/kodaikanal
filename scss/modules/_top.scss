@@ -1,0 +1,22 @@
+.top{
+
+	div:first-child{
+		background: url('../image/4high-min.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		height: 500px;
+	}
+
+	div:last-child{
+		position: absolute;
+		width: 100%;
+		top: 150px;
+
+		h1,h4{
+			text-align: center;
+			margin: auto;
+		}
+	}
+}
+
